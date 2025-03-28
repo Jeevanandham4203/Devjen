@@ -34,9 +34,9 @@ public class DevjenController {
 			a=a/10;
 		}
 		if(temp==store)
-			return "This is a palindrome "+a;
+			return "This is a palindrome "+store;
 		else
-			return "not a palindrome"+a;
+			return "not a palindrome"+store;
 	}
 	
 	
